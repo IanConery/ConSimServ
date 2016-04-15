@@ -1,1 +1,1 @@
-# ConSimServ
+# Simple Server Boilerplate
